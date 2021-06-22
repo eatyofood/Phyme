@@ -1,3 +1,20 @@
+## My Additions
+
+### Shell Script
+- all i did was add an interactive shell script , that you can call by typeing : 
+`./rhyme.sh` 
+or
+`python3 rhyme.py`
+### Song Writing Jornal
+- i added a jupyter notebook that gives you rhymes while you write
+`jupyter notebook song_jornal.ipynb`
+or 
+`./song_jornal.sh`
+
+
+
+
+
 # Phyme
 Phyme is a Python rhyming dictionary for songwriting.
 
